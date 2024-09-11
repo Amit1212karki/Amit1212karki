@@ -36,4 +36,4 @@ If you have exciting ideas or are looking for a collaborator, feel free to reach
 
 📫 **Email**: amitkarki89@gmail.com
 
-💼 **[GitHub Profile]**: (https://github.com/Amit1212karki)
+💼 **[GitHub Profile]**: https://github.com/Amit1212karki
