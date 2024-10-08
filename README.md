@@ -7,7 +7,7 @@
 
 🎓 **BSc (Hons) Computing, Itahari International College**
 
-💻 **Currently Working with Django, Laravel, Aspiring to Excel in Core Python IoT, and Web Development**
+💻 **Currently vibing with Django and Laravel. Future goals: Crushing it in Core Python, IoT, and web dev!**
 
 I’m passionate about creating innovative solutions that bridge the software and hardware gap.
 While I’m currently proficient in Laravel, PHP, and Django, I’m working towards building a strong foundation in Core Python. 
