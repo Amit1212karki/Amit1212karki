@@ -1,7 +1,7 @@
 
 **AmitKarki@ShadowCipher**
 
-👋 **Hi, I'm Amit Karki!**
+👋 **Hi, it's me Amit Karki!**
 
 🔧 **Programmer | Tech Enthusiast | Lifelong Learner**
 
